@@ -1,5 +1,7 @@
 HotelService/Server/node_modules
 HotelService/Server/bin
 HotelService/Server/nbproject
+HotelService/Server/images
 
 HotelClient/node_modules
+HotelClient/dist
